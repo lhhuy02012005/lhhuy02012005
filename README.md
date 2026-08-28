@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=drops&color=gradient&customColorList=10,20,30,40&height=220&section=header&text=L%C3%AA%20H%E1%BB%AFu%20Huy&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=L%C3%AA%20H%E1%BB%AFu%20Huy&fontSize=42&fontAlignY=35&animation=twinkling&desc=Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=60" width="100%"/>
 </div>
 
 ## 🌐 Socials:
