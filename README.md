@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/lhhuy02012005/lhhuy02012005/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
